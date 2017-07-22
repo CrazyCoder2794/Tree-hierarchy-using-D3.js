@@ -1,0 +1,70 @@
+[
+{
+"name":"Chairman",
+"children":
+[{"name":"CEO",
+"children":[
+{
+"name":"General Manager",
+"children":[
+{
+"name":"Operational Manager",
+"children":
+[
+{
+"name":"Operational Staff"
+}
+]
+},
+{
+"name":"Financial Manager",
+"children":
+[
+{
+"name":"Financial Team"
+}
+]
+},
+{
+"name":"Marketing Manager",
+"children":
+[
+{
+"name":"Sales Team"
+}
+]
+},
+{
+"name":"Accounting Manager",
+"children":
+[
+{
+"name":"Accounting Team"
+}
+]
+},
+{
+"name":"IT Manager",
+"children":
+[
+{
+"name":"IT Engineers"
+}
+]
+},
+{
+"name":"HR Manager",
+"children":
+[
+{
+"name":"Employee"
+}
+]
+}
+]
+}
+]
+}]
+
+}
+]
